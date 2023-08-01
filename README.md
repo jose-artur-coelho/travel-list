@@ -10,4 +10,4 @@ possivel limpar todos os itens da lista.
 
 
 
-link para usar: https://far-away-travel.netlify.app/
+link para usar: *https://far-away-travel.netlify.app/*
